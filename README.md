@@ -1,1 +1,1 @@
-# Solotech-Calsulator-Website
+# Solotech-Calculator-Website
